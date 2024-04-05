@@ -13,5 +13,5 @@ left.addEventListener("click", () => {
     count++;
   }
   imgContainer.style.backgroundImage = `url('./images/image-0.jpg')`;
-  //   console.log(url("../images/image-0.jpg"));
+  console.log();
 });
